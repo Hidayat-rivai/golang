@@ -25,3 +25,4 @@ This is the way to check golang version
 
 ## Application
  0. [ Hello Golang ](https://github.com/Hidayat-rivai/golang)
+ 1. [ Comment ](https://github.com/Hidayat-rivai/golang_comment)
