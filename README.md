@@ -28,3 +28,4 @@ This is the way to check golang version
  1. [ Comment ](https://github.com/Hidayat-rivai/golang_comment)
  2. [ Variable ](https://github.com/Hidayat-rivai/golang_variable)
  3. [ Datatype ](https://github.com/Hidayat-rivai/golang_datatype)
+ 3. [ Constant ](https://github.com/Hidayat-rivai/golang_const)
