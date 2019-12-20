@@ -27,3 +27,4 @@ This is the way to check golang version
  0. [ Hello Golang ](https://github.com/Hidayat-rivai/golang)
  1. [ Comment ](https://github.com/Hidayat-rivai/golang_comment)
  2. [ Variable ](https://github.com/Hidayat-rivai/golang_variable)
+ 3. [ Datatype ](https://github.com/Hidayat-rivai/golang_datatype)
