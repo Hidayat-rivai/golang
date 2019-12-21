@@ -30,3 +30,4 @@ This is the way to check golang version
  3. [ Datatype ](https://github.com/Hidayat-rivai/golang_datatype)
  4. [ Constant ](https://github.com/Hidayat-rivai/golang_const)
  5. [ Operator ](https://github.com/Hidayat-rivai/golang_const)
+ 6. [ Flow Control ](https://github.com/Hidayat-rivai/golang_flow_control)
