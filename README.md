@@ -40,3 +40,4 @@ This is the way to check golang version
  13. [ Pointer ](https://github.com/Hidayat-rivai/golang_pointer)
  14. [ Struct ](https://github.com/Hidayat-rivai/golang_struct)
  15. [ Method ](https://github.com/Hidayat-rivai/golang_method)
+ 16. [ Encapsulation ](https://github.com/Hidayat-rivai/golang_encapsulation)
