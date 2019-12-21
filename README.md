@@ -37,3 +37,4 @@ This is the way to check golang version
  10. [ Map ](https://github.com/Hidayat-rivai/golang_map)
  11. [ Function ](https://github.com/Hidayat-rivai/golang_function)
  12. [ Variadic Function ](https://github.com/Hidayat-rivai/golang_variadic)
+ 13. [ Pointer ](https://github.com/Hidayat-rivai/golang_pointer)
