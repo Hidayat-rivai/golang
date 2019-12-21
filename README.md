@@ -31,4 +31,7 @@ This is the way to check golang version
  4. [ Constant ](https://github.com/Hidayat-rivai/golang_const)
  5. [ Operator ](https://github.com/Hidayat-rivai/golang_const)
  6. [ Flow Control ](https://github.com/Hidayat-rivai/golang_flow_control)
- 6. [ Loop ](https://github.com/Hidayat-rivai/golang_loop)
+ 7. [ Loop ](https://github.com/Hidayat-rivai/golang_loop)
+ 8. [ Array ](https://github.com/Hidayat-rivai/golang_array)
+ 9. [ Slice ](https://github.com/Hidayat-rivai/golang_slice)
+ 10. [ Map ](https://github.com/Hidayat-rivai/golang_map)
