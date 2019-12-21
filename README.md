@@ -35,3 +35,4 @@ This is the way to check golang version
  8. [ Array ](https://github.com/Hidayat-rivai/golang_array)
  9. [ Slice ](https://github.com/Hidayat-rivai/golang_slice)
  10. [ Map ](https://github.com/Hidayat-rivai/golang_map)
+ 11. [ Function ](https://github.com/Hidayat-rivai/golang_function)
