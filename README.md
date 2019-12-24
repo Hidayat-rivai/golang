@@ -19,7 +19,7 @@ This is the way to check golang version
   
 ### go version
   - Tools : command prompt
-  - Ruby version : go1.13.5
+  - Go version : go1.13.5
   - Os : windows/amd64
   - Year : 2019
 
