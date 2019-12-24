@@ -43,3 +43,4 @@ This is the way to check golang version
  16. [ Encapsulation ](https://github.com/Hidayat-rivai/golang_encapsulation)
  17. [ Reflect ](https://github.com/Hidayat-rivai/golang_reflect)
  18. [ Goroutine ](https://github.com/Hidayat-rivai/golang_goroutine)
+ 19. [ Channel ](https://github.com/Hidayat-rivai/golang_channel)
