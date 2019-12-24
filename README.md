@@ -52,4 +52,5 @@ This is the way to check golang version
  25. [ Strings ](https://github.com/Hidayat-rivai/golang_strings)
  26. [ Regex ](https://github.com/Hidayat-rivai/golang_regex)
  27. [ Base64 ](https://github.com/Hidayat-rivai/golang_base64)
+ 28. [ Sha1 ](https://github.com/Hidayat-rivai/golang_sha1)
 
