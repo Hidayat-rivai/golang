@@ -47,3 +47,4 @@ This is the way to check golang version
  20. [ Defer ](https://github.com/Hidayat-rivai/golang_defer)
  21. [ Exit ](https://github.com/Hidayat-rivai/golang_exit)
  22. [ Error, Panic, Recover ](https://github.com/Hidayat-rivai/golang_exception)
+ 23. [ Timer ](https://github.com/Hidayat-rivai/golang_timer)
