@@ -45,3 +45,4 @@ This is the way to check golang version
  18. [ Goroutine ](https://github.com/Hidayat-rivai/golang_goroutine)
  19. [ Channel ](https://github.com/Hidayat-rivai/golang_channel)
  20. [ Defer ](https://github.com/Hidayat-rivai/golang_defer)
+ 21. [ Exit ](https://github.com/Hidayat-rivai/golang_exit)
